@@ -1,0 +1,41 @@
+OrderId: 1
+User: aaa
+Order Components: 
+    -Fresh Corn Tortillas : 5
+    -Spicy Pickled Shallots : 5
+    -Seared Steak Lettuce Cups : 5
+
+OrderId: 2
+User: aaa
+Order Components: 
+    -Fresh Corn Tortillas : 5
+    -Spicy Pickled Shallots : 5
+    -Seared Steak Lettuce Cups : 7
+    -Fresh Corn Tortillas : 2
+
+OrderId: 3
+User: aaa
+Order Components: 
+    -Fresh Corn Tortillas : 5
+    -Spicy Pickled Shallots : 5
+    -Seared Steak Lettuce Cups : 5
+
+OrderId: 4
+User: aaa
+Order Components: 
+    -Fresh Corn Tortillas : 5
+    -Spicy Pickled Shallots : 5
+    -Seared Steak Lettuce Cups : 7
+    -Fresh Corn Tortillas : 2
+
+------------------------------------
+Orders with more than 12 orders:
+    -Fresh Corn Tortillas 
+    -Spicy Pickled Shallots 
+    -Seared Steak Lettuce Cups 
+------------------------------------
+aaa
+------------------------------------
+Fresh Corn Tortillas   12
+Spicy Pickled Shallots   10
+Seared Steak Lettuce Cups   12

@@ -1,0 +1,96 @@
+Fresh Corn Tortillas ,3.75,23,1,2,61,79
+Quick & Spicy Asian Pickles ,5,23,1,0,128,48
+Spicy Pickled Shallots ,0,23,1,0,162,78
+Ethiopian Spice Tea ,5,23,1,0,13,49
+Smoked Caviar and Hummus on Pita Toasts ,5,23,1,2,49,79
+Barbecued Shrimp ,3.75,23,4,0,205,71
+Cilantro-Tomato Salsa ,3.75,23,1,0,7,32
+Cauliflower-Leek Purée ,3.125,23,2,0,149,13
+Red and Green Tomato Salsa ,3.125,23,1,0,552,38
+The Original Three-Ingredient Rub ,0,23,1,1,6,47
+Cilantro-Tomato Salsa ,3.75,23,1,0,7,19
+Shrimp Sates with Spiced Pistachio Chutney ,3.75,23,1,2,4,78
+Coriander-Herb Spice Rub ,3.75,24,1,1,1911,51
+Arugula Salad with Heirloom Tomatoes and Red Onion ,2.5,24,1,0,12,21
+Beef Stock ,4.375,24,4,1,87,26
+Red Pepper Sauce ,4.375,24,1,0,253,62
+Beef Stock ,4.375,24,4,1,87,96
+"Endive ""Spoons"" with Lemon-Herb Goat Cheese ",4.375,24,1,2,35,50
+Toasted Corn Crisps ,2.5,24,0,2,37,66
+Classic Salad ,4.375,24,2,1,56,49
+Beef Stock ,5,24,4,1,83,61
+Master Stock Chicken ,3.75,25,2,1,61,72
+Fish Stock ,5,25,4,1,124,27
+Hot-and-Sour Cabbage Salad ,3.75,25,2,0,75,29
+Potato Samosa Tartlets ,3.75,25,0,1,26,82
+Quatre-Épices ,5,25,1,0,2,81
+Master Stock Chicken ,3.75,25,2,1,61,39
+Hot-and-Sour Cabbage Salad ,3.75,25,2,0,75,14
+Qpuatre-Éices ,5,25,1,0,2,78
+Steamed Mussels with Tomato and Chorizo Broth ,5,25,2,1,65,42
+South American-Style Jícama and Orange Salad ,3.125,26,1,0,364,25
+Chipotle Tomato Salsa ,5,26,1,0,40,98
+Restorative Beef Broth ,3.75,26,1,2,8,58
+Zinfandel Beef Stock ,3.75,26,2,1,50,30
+Spiced Shrimp ,4.375,26,3,1,117,33
+Zinfandel Beef Stock ,3.75,26,2,1,50,57
+Red Bell Pepper and Coriander Pancakes with Smoked Salmon ,3.125,26,1,1,27,42
+Poppy Seed Crackers ,3.75,27,1,1,50,35
+Chicken Stock ,5,27,2,2,49,64
+Simple Homemade Beef Stock ,5,27,2,2,59,57
+Scallion Cilantro Pancakes ,2.5,27,1,1,149,71
+Tomato Salsa ,0,27,1,0,168,42
+Prosciutto-Wrapped Asparagus Spears ,4.375,27,2,2,149,25
+Cabbage Slaw ,4.375,27,1,0,389,52
+Tomato Salsa ,0,27,1,0,168,42
+Asian Cabbage Salad ,3.75,27,1,1,11,37
+Homemade Montreal Steak Seasoning ,5,27,1,1,1910,74
+Cabbage Slaw ,4.375,27,1,0,389,13
+Ginger Tea ,4.375,27,0,0,17,81
+Parmesan Walnut Salad in Endive Leaves ,4.375,27,1,2,46,29
+Asian Cabbage Salad ,3.75,27,1,1,11,87
+Barbecue Rub #67 ,0,27,0,0,2293,98
+Simple Homemade Beef Stock ,5,27,2,2,59,13
+Coconut Water and Lime Rickey ,0,27,1,0,139,43
+Chicken Stock ,5,27,2,2,49,92
+Turkey Stock ,4.375,28,4,1,72,56
+Orange Almond Lace Cookies ,3.125,28,0,2,0,94
+Turkey Stock ,5,28,4,1,72,59
+Sesame Carrots ,3.75,28,0,2,26,75
+Black-Olive Grissini ,3.75,28,1,1,61,37
+Sesame Carrots ,3.75,28,0,2,26,40
+Turkey Stock ,5,28,4,1,72,58
+Anchovy Toasts ,3.75,28,0,3,5,44
+Chicken Stock ,0,28,2,2,66,89
+Marshmallows ,4.375,28,0,0,9,22
+Anchovy Toasts ,3.75,28,0,3,5,10
+Turkey Stock ,4.375,28,4,1,72,38
+Rajas con Crema ,4.375,28,1,2,4,94
+Rajas con Crema ,4.375,28,1,2,4,66
+Chicken Stock ,0,28,2,2,66,40
+Chicken Stock ,0,28,2,2,66,42
+Chicken Stock ,3.75,28,2,2,66,12
+Parmesan Puffs ,3.125,28,2,2,64,69
+Veal Stock ,5,29,4,1,57,21
+Veal Stock ,0,29,4,1,57,23
+Veal Stock ,0,29,4,1,57,50
+Cauliflower Purée and Caviar on Cloverleaf Potato Chips ,4.375,29,1,1,50,74
+Red Radishes Stuffed with Blue Cheese ,0,29,1,3,34,22
+Veal Stock ,5,29,4,1,57,68
+Mini Chocolate Sandwich Cookies ,3.75,30,0,2,8,15
+Slow Cooker Bone Broth ,0,30,3,2,49,46
+Lime and Chile Sauce ,3.75,30,1,0,621,28
+Baharat Seasoning ,5,31,1,1,8,60
+Clams in Broth ,5,31,2,2,101,54
+Baharat Seasoning ,5,31,1,1,8,26
+Cucumber Salad with Mustard Dressing ,3.125,31,1,1,837,82
+Sorrel-Wrapped Goat Cheese and Beet Stacks ,3.75,31,1,2,34,53
+Cucumber-Lime Agua ,4.375,31,1,0,7,39
+Roasted Tomato Sauce ,3.125,32,2,1,23,84
+Pickled Onions ,5,32,1,0,23,27
+Cucumber Carrot Salad ,3.75,32,1,0,363,23
+Red Chile Sauce ,0,32,1,1,362,59
+Endive with Smoked Trout and Herbed Cream Cheese ,4.375,32,2,3,70,59
+Green-Peppercorn Cornmeal Crackers ,5,32,1,2,53,42
+Seared Steak Lettuce Cups ,5,32,3,2,70,41
+Salsa Criolla ,5,32,1,1,435,28
